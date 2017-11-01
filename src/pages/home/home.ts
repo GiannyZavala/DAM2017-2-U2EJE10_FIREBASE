@@ -7,6 +7,8 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
+  public heroe: any="";
+
   constructor(public navCtrl: NavController) {
 
   }
